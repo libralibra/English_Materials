@@ -1,0 +1,140 @@
+			@font-face {
+				font-family: ipa;
+				src: url("../../../FONTS/NickxIPA.html");
+				}
+
+
+				@font-face {
+				font-family: ipa;
+				src: url("../../../FONTS/NickxIPA-2.html") format("truetype");
+				}
+
+				@font-face {
+				font-family: IMFE;
+				src: url("../../../FONTS/FeENrm2.eot");
+				}
+
+				@font-face {
+				font-family: IMFE;
+				src: url("../../../FONTS/FeENrm2.ttf") format("truetype");
+				}
+
+				@font-face {
+				font-family: heibian;
+				src: url("../../../FONTS/%c3%a6%c2%96%c2%b9%c3%a6%c2%ad%c2%a3%c3%a5%c2%85%c2%b0%c3%a4%c2%ba%c2%ad%c3%a9%c2%bb%c2%91%c3%a6%c2%89%c2%81%c3%a7%c2%ae%c2%80%c3%a4%c2%bd%c2%93.html");
+				}
+
+				@font-face {
+				font-family: heibian;
+				src: url("../../../FONTS/%c3%a6%c2%96%c2%b9%c3%a6%c2%ad%c2%a3%c3%a5%c2%85%c2%b0%c3%a4%c2%ba%c2%ad%c3%a9%c2%bb%c2%91%c3%a6%c2%89%c2%81%c3%a7%c2%ae%c2%80%c3%a4%c2%bd%c2%93-2.html") format("truetype");
+				}
+
+a:link 	{ color: #ffffff; text-decoration:
+none; border-bottom: 1px dotted white; 
+padding-bottom: 2px }
+a:visited { text-decoration: underline;
+color: #ffffff }
+a:hover  { color: #ffffff; border-top: 1px
+dashed white; border-bottom: 1px dashed
+white;  padding-bottom: 2px; }
+
+body { 
+	padding: 30px; 
+	background-color: #11a9e2; 
+	color: white; 
+	line-height: 180%;
+	font-family: heibian; }
+
+p {
+	font-size: 16px;
+	text-indent: 32px;
+	margin: 0px;
+	text-align: justify;
+	text-justify: newspaper;
+}
+
+.storyTitle { 
+	text-indent: 0px; 
+	color: yellow; 
+	font-style: italic;
+	text-align: center; 
+	padding-top: 16px; 
+	padding-bottom: 0px;
+	font-family: heibian }
+
+.cnStoryTitle { 
+	text-indent: 0px; 
+	color: yellow; 
+	text-align: center; 
+	padding-top: 16px; 
+	padding-bottom: 0px }
+
+.subTitle { 
+	text-indent: 0px; 
+	color: yellow; 
+	padding-top: 0px; 
+	padding-bottom: 0px }
+
+.storyAuthor {
+	text-align: 0px;
+	text-align: right;
+	font-style: italic }
+
+.cnStoryAuthor {
+	text-align: 0px;
+	text-align: right }
+
+.zeroIndent { text-indent: 0px }
+
+.alignRight { text-align: right }
+
+.alignCenter { 
+	text-indent: 0px; 
+	text-align: center }
+
+td { 
+	vertical-align: baseline; 
+	line-height: 180% }
+
+li { line-height: 180%; }
+
+
+img {
+	//filter: opacity(.7);
+	//-webkit-filter: opacity(.7);
+	margin: 1em auto;
+	display: block;
+	width: 80%;
+	clear: both;
+}
+
+.souls { padding: 6px 10px 5px 10px;
+	background: white;
+	color: #11a9e2;
+	border: #11a9e2;
+	font-family: arial;
+	font-weight: bold;
+	box-shadow: 3px 1px 6px #FFFFFF;
+	-moz-box-shadow: 3px 1px 6px #FFFFFF;
+	-webkit-box-shadow: 3px 1px 6px #FFFFFF;
+	 }
+
+.quotes { margin-left: 10px;
+	margin-right: 10px }
+
+.quote_author { margin-right: 26px;
+	text-align: right }
+
+.cnQuoteAuthor { margin-right: 26px;
+	text-align: right }
+
+.quotations { margin-bottom: 10px;
+	margin-left: 10%;
+	padding: 15px 10px 5px 10px;
+	color: white;
+	border: 1px solid white }
+
+.examples { margin-left: 20%;
+	text-indent: -5%;
+	font-style: italic;
+	color: yellow }
