@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.www.andrewleunginternationalconsultants.com	TRUE	/	FALSE	1999999999	__cf_bm	580CHQXx6rvdnff.yAXTlLPHZcAKQTxQ5YqRn9k.tkc-1717417854-1.0.1.1-JEkstcxcjx6Yy989keyVCbjWZwa4tJ_gCX9ACuwdegRZVeBKuvKwMk_xPGQqWNs4i3_Kz_MmG.1vuLfnw9LkpA
+www.andrewleunginternationalconsultants.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.law.hku.hk	TRUE	/	FALSE	1999999999	1b611bf7d5e4d5f38c1b00e780fefba9	429b79645f9c0e3832ec923b16ef8f4b
+www.law.hku.hk	TRUE	/	FALSE	1999999999	SameSite	None
+www.alverno.edu	TRUE	/	FALSE	1999999999	PHPSESSID	p10q2l1979od4k5bgp7gq5pcv1
+www.alverno.edu	TRUE	/	FALSE	1999999999	mwAuth	deleted
+
